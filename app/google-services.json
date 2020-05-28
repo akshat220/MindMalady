@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "958422469788",
+    "firebase_url": "https://mindmalady-2210.firebaseio.com",
+    "project_id": "mindmalady-2210",
+    "storage_bucket": "mindmalady-2210.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958422469788:android:b7b5cbe0bddae1b64f3159",
+        "android_client_info": {
+          "package_name": "com.example.mindmalady"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958422469788-54479n7rb67ottjvkbhq781j7k0024dq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mindmalady",
+            "certificate_hash": "c951f83b58bb33c4021e433dee7f41d36ddbc64e"
+          }
+        },
+        {
+          "client_id": "958422469788-8mrc46vobbhu6glm9duqm9jmrgnkdpsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2IS_8XPH8jeBbu-qMww4uCkjnNcgkUuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958422469788-8mrc46vobbhu6glm9duqm9jmrgnkdpsm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
